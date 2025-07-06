@@ -1,7 +1,5 @@
-# -DSA-C-PlusPlus
-Description: My C++ and DSA practice from scratch
-
 # DSA in C++
+Description: My C++ and DSA practice from scratch
 
 This repository contains my C++ solutions for Data Structures and Algorithms.  
 Each problem is organized topic-wise in separate folders.
